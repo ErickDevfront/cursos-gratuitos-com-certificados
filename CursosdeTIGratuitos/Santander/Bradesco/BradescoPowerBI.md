@@ -1,14 +1,11 @@
 
 # Curso Gratuito da Fundação bradesco.
 
-Aqui estão alguns cursos gratuitos que eu encontrei.
-
 
 Análise de Dados no Power BI.
 
 Resumo do Curso:
 
-Duração 04h Nível AvançadoCompartilhar Favoritar
 Este é o quinto - e último - curso da trilha que está disponível na Escola Virtual sobre o Power BI que, em resumo, é uma coleção de serviços de software, aplicativos e conectores que funcionam juntos para tornar fontes de dados não relacionadas em informações coerentes, visualmente imersivas e interativas.
 
 A análise de dados pode transformar dados brutos em uma ampla coleção de informações e, com essas informações, você pode criar modelos de dados, traçar planos e fazer previsões que podem ajudar a tomar melhores decisões empresariais e a criar resultados significativos!
