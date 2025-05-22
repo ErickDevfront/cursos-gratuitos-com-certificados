@@ -43,7 +43,12 @@ Compartilhe nas redes sociais e na sua avaliação de desempenho
 
 Certificado profissional do Coursera
 Este curso possui 6 módulos
-Neste curso, você será apresentado ao mundo da Tecnologia da Informação, ou TI. Você aprenderá sobre as diferentes facetas da Tecnologia da Informação, como hardware de computador, Internet, software de computador, solução de problemas e atendimento ao cliente. Este curso abrange uma ampla variedade de tópicos em TI, projetados para dar uma visão geral do que está por vir neste programa de certificação. Ao final deste curso, você será capaz de: ● entender como funciona o sistema binário ● montar um computador a partir do zero ● escolher e instalar um sistema operacional em um computador ● entender o que é a Internet, como funciona e o impacto que tem no mundo moderno ● aprender como os aplicativos são criados e como funcionam sob o capô de um computador ● utilizar metodologias comuns de solução de problemas e Habilidades comportamentais em um ambiente de Tecnologia da Informação
+Neste curso, você será apresentado ao mundo da Tecnologia da Informação, ou TI. Você aprenderá sobre as diferentes facetas da Tecnologia da Informação, como hardware de computador, Internet, software de computador, solução de problemas e atendimento ao cliente. Este curso abrange uma ampla variedade de tópicos em TI, projetados para dar uma visão geral do que está por vir neste programa de certificação. Ao final deste curso, você será capaz de: 
+● entender como funciona o sistema binário ● montar um computador a partir do zero 
+● escolher e instalar um sistema operacional em um computador 
+● entender o que é a Internet, como funciona e o impacto que tem no mundo moderno 
+● aprender como os aplicativos são criados e como funcionam sob o capô de um computador 
+● utilizar metodologias comuns de solução de problemas e Habilidades comportamentais em um ambiente de Tecnologia da Informação
 
 
 [link](https://www.coursera.org/learn/technical-support-fundamentals/paidmedia?specialization=google-it-support)
